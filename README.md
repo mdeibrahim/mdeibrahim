@@ -1,6 +1,6 @@
 <!-- Profile README for mdeibrahim -->
 
-<h1 align="center">Hi 👋, I'm Md. Eibrahim</h1>
+<h1 align="center">Hi 👋, I'm Md. Eibrahim Molla</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
