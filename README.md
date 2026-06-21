@@ -52,6 +52,7 @@ Django, Django REST Framework, FastAPI, React, Next.js, PostgreSQL & Cloud Deplo
 
 * 📚 Learning Management System (Django + React)
 * 🎤 Real-Time Speech-to-Text Platform
+* 🤖 AI-Based Applications
 * 🛒 E-Commerce & Marketplace Solutions
 * 📊 Business Automation & ERP Systems
 * ☁️ Cloud Deployment & DevOps Solutions
