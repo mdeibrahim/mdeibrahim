@@ -14,7 +14,48 @@ Django, Django REST Framework, FastAPI, React, Next.js, PostgreSQL & Cloud Deplo
 ---
 
 <br>
-<br>
+## 🚀 About Me
+
+* 💼 Full Stack Software Engineer at Softvence
+* 🔭 Currently building scalable web applications with Django, FastAPI, React & Next.js
+* 🌱 Exploring AI integrations, Cloud Infrastructure, and System Design
+* ⚡ Experienced with REST APIs, WebSockets, Docker, PostgreSQL, Nginx & AWS
+* 🎯 Passionate about solving real-world business problems through software
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
+
+## 🌟 Featured Projects
+
+* 📚 Learning Management System (Django + React)
+* 🎤 Real-Time Speech-to-Text Platform
+* 🛒 E-Commerce & Marketplace Solutions
+* 📊 Business Automation & ERP Systems
+* ☁️ Cloud Deployment & DevOps Solutions
+
 <br>
 
 ## 📊 GitHub Stats
