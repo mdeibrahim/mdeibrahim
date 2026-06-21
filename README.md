@@ -12,8 +12,8 @@ Django, Django REST Framework, FastAPI, React, Next.js, PostgreSQL & Cloud Deplo
 </p>
 
 ---
-
 <br>
+
 ## 🚀 About Me
 
 * 💼 Full Stack Software Engineer at Softvence
